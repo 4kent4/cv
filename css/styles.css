@@ -1,0 +1,151 @@
+ body{
+   margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+ }
+
+ h1{
+   margin-top: 2rem;
+  margin-bottom: 0;
+  font-family: 'Oswald', sans-serif;
+   font-size: 7rem;
+   color: #2d89c4;
+ }
+
+ .pro{
+   margin-top: 0;
+   font-size: 2rem;
+ }
+
+ h2{
+   font-family: 'Merriweather', serif;
+   color: #369ad9;
+ }
+
+ .intro{
+   width: 50%;
+   margin: 5px auto;
+   text-align: justify;
+   line-height: 2;
+ }
+
+
+ .container{
+   padding-top: 2rem;
+   background: linear-gradient(135deg, #e9ae60, #FBF8F1);
+   position: relative;
+   padding-bottom: 3rem;
+   margin-bottom: 3rem;
+ }
+
+.html-icon{
+width: 10%;
+
+}
+
+.css-icon{
+  width: 10%;
+
+}
+
+.js-icon{
+  width: 10%;
+
+}
+
+.prog{
+  width: 25%;
+  margin-top: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.myName{
+  height: 150px;
+  width: 150px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 4%;
+  border-color: #F0BB62;
+  margin-bottom: 10rem;
+  margin-top: 10rem;
+}
+
+.skheading{
+  margin-bottom: 5rem;
+}
+
+.skills-container{
+  width: 50%;
+  margin: 2rem auto 2rem auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-img{
+  width: 25%;
+  margin-top: 10px;
+  float: left;
+  margin-right: 1.875rem;
+}
+
+.experience-container{
+  width: 50%;
+  margin: 2rem auto 10rem auto;
+  text-align: left;
+  line-height: 2;
+  mar
+}
+.experience-img{
+  width: 25%;
+  margin-top: 10px;
+  float: right;
+  margin-left: 1.875rem;
+}
+
+.exheading{
+  margin-bottom: 5rem;
+}
+
+.footer{
+  padding: 30px 0;
+  background-color: black;
+}
+
+.footer .social{
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  color: #369ad9;
+
+}
+.footer .social a {
+  color: inherit;
+  font-size: 25px;
+  border: 2px solid white;
+  width: 40px;
+  height: 40px;
+  line-height: 38px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  margin: 0 10px;
+  opacity: 0.75;
+}
+
+.footer .social a:hover{
+  opacity: 1;
+
+}
+
+.footer .copyright{
+  margin-top: 15px;
+  text-align: center;
+  font-size: 1rem;
+  color: white;
+}
