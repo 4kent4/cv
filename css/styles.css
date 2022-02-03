@@ -32,7 +32,7 @@
 
  .container{
    padding-top: 2rem;
-   background: linear-gradient(135deg, #e9ae60, #FBF8F1);
+   background: linear-gradient(135deg, #69dd72, #fff7e6);
    position: relative;
    padding-bottom: 3rem;
    margin-bottom: 3rem;
@@ -93,6 +93,12 @@ hr{
   float: left;
   margin-right: 1.875rem;
 }
+
+a {
+  text-decoration: none;
+  color: #2d89c4;
+}
+
 
 .experience-container{
   width: 50%;
