@@ -32,7 +32,7 @@
 .container{
   margin: 0;
   padding: 20px;
-  background: linear-gradient(135deg, rgb(238, 186, 103),rgb(214, 235, 235));
+  background: linear-gradient(135deg, rgb(238, 186, 103),rgb(134, 134, 134));
   box-sizing: border-box;
 }
 
@@ -44,8 +44,8 @@
 }
 
 .container .icon-img .icon1{
-  height: 70px;
-  width: 70px;
+  height: 80px;
+  width: 80px;
   line-height: 30px;
   display: inline-block;
   margin: 10px;
