@@ -105,8 +105,9 @@ a {
   margin: 2rem auto 10rem auto;
   text-align: left;
   line-height: 2;
-  mar
+  margin-top: 20px;
 }
+
 .experience-img{
   width: 25%;
   margin-top: 10px;
