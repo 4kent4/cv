@@ -29,35 +29,43 @@
    line-height: 2;
  }
 
+.container{
+  margin: 0;
+  padding: 20px;
+  background: linear-gradient(135deg, rgb(238, 186, 103),rgb(214, 235, 235));
+  box-sizing: border-box;
+}
 
- .container{
-   padding-top: 2rem;
-   background: linear-gradient(135deg, #e6c682, #ffe7b3);
-   position: relative;
-   padding-bottom: 3rem;
-   margin-bottom: 3rem;
- }
-
-.html-icon{
-width: 10%;
+.container .icon-img{
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 15px;
 
 }
 
-.css-icon{
-  width: 10%;
+.container .icon-img .icon1{
+  height: 70px;
+  width: 70px;
+  line-height: 30px;
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+  opacity: 0.75;
+  border: 2px solid rgb(0, 7, 8);
+  border-radius: 50%;
 
 }
 
-.js-icon{
-  width: 10%;
-
+.prog-container{
+  margin-top: 15px;
+  padding: 10px 0 10px 0;
+  text-align: center;
 }
 
-.prog{
-  width: 25%;
-  margin-top: 3rem;
-  margin-bottom: 0.5rem;
+.prog-container .prog{
+  width: 20%;
 }
+
 
 .myName{
   height: 150px;
